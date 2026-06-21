@@ -1,0 +1,32 @@
+{
+  "manga": {
+    "id": 166,
+    "title": "Solo Leveling",
+    "genres": ["Action", "Fantasy"],
+    "status": "Completed",
+    "description": "A hunter must fight monsters.",
+    "authors": "[\"Chugong\"]",
+    "artists": "[\"DUBU\"]",
+    "chapter_count": 200,
+    "rating": "81.7",
+    "avg_rating": "9.1",
+    "rating_count": 1234,
+    "alt_titles": ["Na Honjaman Level Up"],
+    "is_adult": false,
+    "country_of_origin": "KR",
+    "year": "2018",
+    "photo": "/covers/solo.jpg",
+    "banner_image": "/banners/solo.jpg",
+    "date_added": "2018-02-01",
+    "hiatus": "No",
+    "is_blurworthy": 0,
+    "content_rating": "safe",
+    "is_hot": true,
+    "is_popular": true
+  },
+  "total_chapters": 201,
+  "first_chapter_id": 1001,
+  "first_chapter_source": "user",
+  "status_text": "Completed",
+  "date_added_formatted": "Feb 1, 2018"
+}

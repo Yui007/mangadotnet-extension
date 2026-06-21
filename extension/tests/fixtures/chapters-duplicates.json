@@ -1,0 +1,7 @@
+[
+  { "id": 1, "chapter_number": 1, "volume_number": 1, "chapter_title": "Chapter 1", "language": "en", "page_count": 45, "group_id": 10, "group_name": "Alpha Group", "groups": [{ "id": 10, "name": "Alpha Group" }], "source": "user", "date_added": "2024-01-10" },
+  { "id": 2, "chapter_number": 1, "volume_number": 1, "chapter_title": "Chapter 1", "language": "en", "page_count": 40, "group_id": 20, "group_name": "Beta Group", "groups": [{ "id": 20, "name": "Beta Group" }], "source": "scraper", "date_added": "2024-01-05" },
+  { "id": 3, "chapter_number": 1, "volume_number": 1, "chapter_title": "Capítulo 1", "language": "es", "page_count": 42, "group_id": 30, "group_name": "Spanish Team", "groups": [{ "id": 30, "name": "Spanish Team" }], "source": "user", "date_added": "2024-01-08" },
+  { "id": 4, "chapter_number": 2, "volume_number": 1, "chapter_title": "Chapter 2", "language": "en", "page_count": 38, "group_id": 10, "group_name": "Alpha Group", "groups": [{ "id": 10, "name": "Alpha Group" }], "source": "user", "date_added": "2024-01-15" },
+  { "id": 5, "chapter_number": 3, "volume_number": null, "chapter_title": "Chapter 3", "language": "en", "page_count": 41, "group_id": 10, "group_name": "Alpha Group", "groups": [{ "id": 10, "name": "Alpha Group" }], "source": "user", "date_added": "2024-01-20" }
+]

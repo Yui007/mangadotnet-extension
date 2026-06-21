@@ -1,0 +1,26 @@
+{
+  "name": "mangadotnet-nebula-extension",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Standalone MangaDotNet Nebula browser extension.",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "test": "vitest run",
+    "lint": "tsc --noEmit",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "jszip": "^3.10.1",
+    "pdf-lib": "^1.17.1"
+  },
+  "devDependencies": {
+    "@types/chrome": "^0.0.268",
+    "@types/node": "^20.14.15",
+    "@vitest/coverage-v8": "^1.6.0",
+    "jsdom": "^24.1.1",
+    "typescript": "^5.5.4",
+    "vite": "^5.4.0",
+    "vitest": "^1.6.0"
+  }
+}

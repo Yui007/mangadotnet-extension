@@ -1,0 +1,8 @@
+[
+  "results", [20, 21],
+  "id", "title", "photo", "status", "avg_rating", "chapter_count", "genres", "description", "is_blurworthy",
+  166, "Solo Leveling", "/covers/solo.jpg", "Completed", "9.2", 200, ["Action", "Fantasy"], "A hunter must fight monsters.", 0,
+  42, "Tower of God", "/covers/tog.webp", "Ongoing", "7.5", 12, ["Drama", "Action"], "Climb the tower", 1,
+  { "_2": 10, "_3": 11, "_4": 12, "_5": 13, "_6": 14, "_7": 15, "_8": 16, "_9": 17, "_10": 18 },
+  { "_2": 19, "_3": 20, "_4": 21, "_5": 22, "_6": 23, "_7": 24, "_8": 25, "_9": 26, "_10": 27 }
+]

@@ -1,0 +1,14 @@
+{
+  "chapter": { "id": 1 },
+  "manga": { "id": 166 },
+  "images": [
+    { "url": "/chapters/1/page001.webp", "w": 700, "h": 1000, "filename": "page001.webp" },
+    { "url": "/chapters/1/page002.webp", "w": 700, "h": 1000, "filename": "page002.webp" },
+    { "url": "https://mangadot.net/chapters/1/page003.jpg", "w": 800, "h": 1200, "filename": "page003.jpg" }
+  ],
+  "prev_chapter_id": null,
+  "next_chapter_id": 2,
+  "type": "chapter",
+  "volume_number": null,
+  "source": "user"
+}
